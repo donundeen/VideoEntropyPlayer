@@ -1,0 +1,5 @@
+1, C MajorPent;
+9, E MinorPent;
+17, F MajorPent;
+25, G MajorPent;
+33,;
